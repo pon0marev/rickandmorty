@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">wiki</string>
+
+    <string name="title_activity_characters">Characters</string>
+    <string name="title_activity_character">Character</string>
+</resources>
